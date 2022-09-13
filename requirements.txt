@@ -1,0 +1,6 @@
+streamlit
+pandas
+sklearn
+metrics
+pairwise
+cosine_similarity
